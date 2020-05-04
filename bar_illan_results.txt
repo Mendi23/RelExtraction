@@ -1,0 +1,41 @@
+train:
+	Creating data 0:00:00.859376
+	Generated 33563 data items 0:00:08.057288
+	Positive 388 / 538
+	Total features: 10261
+
+extract:
+	Creating data 0:00:01.218750
+	Generated 36382 data items 0:00:08.406246
+	Positive 0 / 0
+	Positive predictions 282
+	['None' 'None' 'None' ..., 'None' 'None' 'None']
+	-----------------------
+				 precision    recall  f1-score   support
+	C:\ProgramData\Anaconda3\lib\site-packages\sklearn\metrics\classification.py:1137: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples.
+
+	  'recall', 'true', average, warn_for)
+		   Kill       0.00      0.00      0.00         0
+		Live_In       0.00      0.00      0.00         0
+	 Located_In       0.00      0.00      0.00         0
+		   None       1.00      0.99      1.00     36382
+	OrgBased_In       0.00      0.00      0.00         0
+	   Work_For       0.00      0.00      0.00         0
+
+	avg / total       1.00      0.99      1.00     36382
+
+
+eval:
+	Live_In	Precision: 0.6071428571428571	Recall: 0.4180327868852459	F1: 0.4951456310679611
+	Kill	Precision: 0.7058823529411765	Recall: 0.5373134328358209	F1: 0.6101694915254238
+	Work_For	Precision: 0.5625	Recall: 0.25471698113207547	F1: 0.3506493506493506
+	Located_In	Precision: 0.6060606060606061	Recall: 0.3418803418803419	F1: 0.4371584699453552
+	OrgBased_In	Precision: 0.6060606060606061	Recall: 0.18518518518518517	F1: 0.2836879432624113
+
+
+OURS:
+	Live_In	Precision: 0.5285714285714286	Recall: 0.30327868852459017	F1: 0.3854166666666667
+	Kill	Precision: 0.74	Recall: 0.5522388059701493	F1: 0.6324786324786325
+	Work_For	Precision: 0.723404255319149	Recall: 0.32075471698113206	F1: 0.4444444444444444
+	Located_In	Precision: 0.7058823529411765	Recall: 0.3076923076923077	F1: 0.42857142857142866
+	OrgBased_In	Precision: 0.525	Recall: 0.19444444444444445	F1: 0.2837837837837838

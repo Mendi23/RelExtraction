@@ -1,0 +1,282 @@
+sent621	Anzio	Located_In	Italy	
+sent621	Normandy	Located_In	France	
+sent627	000	Located_In	Italy	
+sent627	U.S	Located_In	Italy	
+sent627	Italy	Located_In	U.S	
+sent650	JOHANNESBURG	Located_In	South Africa	
+sent650	AP	OrgBased_In	JOHANNESBURG	
+sent650	AP	OrgBased_In	South Africa	
+sent661	ROCK HILL	Located_In	S.C	
+sent675	GRAND RAPIDS	Located_In	Mich	
+sent772	JOHANNESBURG	Located_In	South Africa	
+sent772	AP	OrgBased_In	JOHANNESBURG	
+sent772	AP	OrgBased_In	South Africa	
+sent784	AP	OrgBased_In	Tunisia	
+sent812	NASA	OrgBased_In	Ala	
+sent814	KHARTOUM	Located_In	Sudan	
+sent814	AP	OrgBased_In	KHARTOUM	
+sent814	AP	OrgBased_In	Sudan	
+sent978	Livingston	Live_In	Montana	
+sent980	Jackson	Located_In	Wyo	
+sent980	Gunnison	Located_In	Colo	
+sent980	McAllen	Located_In	Texas	
+sent994	Yuma	Located_In	Ariz	
+sent1014	Beatrice Martinez	Live_In	Ontario	
+sent1047	NIAGARA FALLS	Located_In	N.Y	
+sent1081	Children 's Television Worship and NHK	OrgBased_In	Japan	
+sent1128	Pittsburgh	Located_In	Fla	
+sent1128	Pittsburgh	Located_In	N.Y	
+sent1128	Rochester	Located_In	N.Y	
+sent1215	Fred Farrar	Work_For	FAA	
+sent1216	Nettie Johnson	Work_For	Navy	
+sent1217	Anderson	Work_For	GE	
+sent1220	James Helmer	Work_For	GE	
+sent1246	Daniel Dewey	Work_For	CBOT	
+sent1302	Riga	Located_In	Latvia	
+sent1312	Hans Guenther von Zydowitz	Work_For	Leica	
+sent1313	Dietmar Kanzer	Live_In	Rollei	
+sent1324	Holliston	Located_In	Mass	
+sent1332	Peter Butler	Work_For	A. Copeland Enterprises Inc	
+sent1333	San Antonio	Located_In	Texas	
+sent1348	Scott Hinton	Work_For	Elders Futures Inc	
+sent1373	Pasadena	Located_In	Calif	
+sent1394	Robert Thompson	Work_For	Eaglebrook	
+sent1408	EAST LANSING	Located_In	Mich	
+sent1411	Will Carlson	Work_For	Michigan State	
+sent1426	Freeport	Located_In	Texas	
+sent1426	Morgan City	Located_In	La	
+sent1432	Grand Isle	Located_In	Louisiana	
+sent1436	Nancy Cowan	Work_For	Red Cross	
+sent1436	Nancy Cowan	Work_For	Calcasieu	
+sent1436	Nancy Cowan	Work_For	Cameron	
+sent1448	Michael O '	Work_For	Conoco Inc	
+sent1466	Lawrence J. Hagen	Work_For	USDA	
+sent1469	Gary H. Heichel	Work_For	USDA	
+sent1473	David Pimentel	Work_For	Cornell University	
+sent1480	Dennis DeConcini	Work_For	Senate Appropriations	
+sent1489	Edward Roybal	Work_For	D-Calif	
+sent1489	Edward Roybal	Work_For	House Appropriations	
+sent1506	Vaughan	Work_For	Army Air Force	
+sent1510	LANCASTER	Located_In	Ky	
+sent1517	Higgins	Work_For	Marine Corps	
+sent1517	Higgins	Work_For	Pentagon	
+sent1573	Jonathan Lifa	Work_For	Chevron	
+sent1583	Pacific Marine Inc	OrgBased_In	Houston	
+sent1591	Boise	Located_In	Idaho	
+sent1593	West	Located_In	Alaska	
+sent1593	Sacher	Live_In	U.S	
+sent1595	AP	OrgBased_In	Seattle	
+sent1610	AP	OrgBased_In	LOS ANGELES	
+sent1644	Bush	Live_In	Massachusetts	
+sent1646	Thomas Kean	Live_In	New Jersey	
+sent1650	BRISBANE	Located_In	Australia	
+sent1650	AP	OrgBased_In	BRISBANE	
+sent1689	AP	OrgBased_In	SAN FRANCISCO	
+sent1695	Wang Shaohua	Live_In	China	
+sent1695	Wang Shaohua	Live_In	San Francisco	
+sent1702	Hua Wen-Yi	Live_In	Shanghai	
+sent1702	Leonard Lee	Work_For	the Chinese Times	
+sent1702	Leonard Lee	Live_In	San Francisco	
+sent1702	the Chinese Times	Located_In	San Francisco	
+sent1714	Marie Magdefrau Ferraro	Live_In	Bethany	
+sent1714	Bethany	Located_In	Conn	
+sent1716	Shaw Yu-ming	Live_In	China	
+sent1727	Susan Cruzan	Work_For	FDA	
+sent1787	the Payette National Forest	Located_In	Idaho	
+sent1795	Mike Ferris	Work_For	Forest Service	
+sent1798	Margie Clack	Work_For	Forest Service	
+sent1801	Greg Thayer	Work_For	the Forest Service	
+sent1814	Gerald Schwartz	Live_In	Miami Beach	
+sent1818	David Leahy	Live_In	Dade County	
+sent1827	Carlos Perez	Work_For	National Security Council	
+sent1838	Grants	Located_In	N.M	
+sent1842	Doug Beldon	Work_For	FBI	
+sent1842	Doug Beldon	Live_In	Albuquerque	
+sent1842	Doug Beldon	Live_In	N.M	
+sent1842	Albuquerque	Located_In	N.M	
+sent1872	Javier Perez de Cuellar	Work_For	U.N	
+sent1879	Khieu Samphan	Work_For	Khmer Rouge	
+sent1893	Robert Isaacks	Live_In	High Island	
+sent1911	Lake Charles	Located_In	La	
+sent1943	Jack Frazier	Work_For	Rotary Club	
+sent1953	Sherman Finesilver	Live_In	U.S	
+sent2011	Robert Bernero	Work_For	NRC	
+sent2021	Fran Sepler	Work_For	Crime Victim	
+sent2054	Richard Celeste	Live_In	Ohio	
+sent2055	Terry Branstad	Live_In	Iowa	
+sent2055	Booth Gardner	Live_In	Washington	
+sent2056	Dan Rather	Work_For	CBS	
+sent2056	Alice	Live_In	Wonderland	
+sent2062	Gerald Baliles	Live_In	Virginia	
+sent2062	Terry Branstad	Live_In	Iowa	
+sent2064	Richard Celeste	Live_In	Ohio	
+sent2082	Khieu Samphan	Work_For	Khmer Rouge	
+sent2083	Javier Perez de Cuellar	Work_For	U.N	
+sent2098	Allan Fitzmaurice	Work_For	XBT	
+sent2108	HIGH ISLAND	Located_In	Texas	
+sent2133	Michael Mason	Work_For	the American Petroleum Institute	
+sent2140	BRUSSELS	Located_In	Belgium	
+sent2140	AP	OrgBased_In	BRUSSELS	
+sent2140	AP	OrgBased_In	Belgium	
+sent2188	James O. Mason	Work_For	the Department of Health and Human Services	
+sent2249	David Cicippio	Live_In	North Wales	
+sent2249	David Cicippio	Live_In	Pa	
+sent2249	North Wales	Located_In	Pa	
+sent2255	Anderson	OrgBased_In	Beirut	
+sent2257	Jacobsen	Live_In	Colorado	
+sent2257	Anderson	Live_In	Colorado	
+sent2263	Cicippio	Work_For	the American Embassy	
+sent2263	Cicippio	Live_In	Beirut	
+sent2266	the S.A. Healy Co	OrgBased_In	McCook	
+sent2266	McCook	Located_In	Ill	
+sent2266	Corvallis	Located_In	Ore	
+sent2268	OSHA	OrgBased_In	U.S	
+sent2268	Elizabeth Dole	Work_For	OSHA	
+sent2268	Elizabeth Dole	Live_In	U.S	
+sent2282	Ancora State Psychiatric Hospital	OrgBased_In	Hammonton	
+sent2283	Toledo	Located_In	Ohio	
+sent2291	Mikhail S. Gorbachev	Live_In	Soviet	
+sent2291	Mikhail S. Gorbachev	Live_In	U.S	
+sent2291	Mikhail S. Gorbachev	Live_In	France	
+sent2291	U.S	Located_In	France	
+sent2336	Bob Dole	Live_In	Kansas	
+sent2358	Harvard	OrgBased_In	U.S	
+sent2358	Ronald	Work_For	Harvard	
+sent2358	Ronald	Live_In	U.S	
+sent2364	Vladimir Ashkenazy	Live_In	Soviet	
+sent2391	Avis Bourg Co	OrgBased_In	Folsom	
+sent2396	Pacific Marine Inc	OrgBased_In	Houston	
+sent2423	Cecil Ray	Live_In	King County	
+sent2436	Mike Norton	Live_In	U.S	
+sent2436	Ken Fimberg	Live_In	U.S	
+sent2436	Ken Fimberg	Live_In	Denver	
+sent2436	Denver	Located_In	U.S	
+sent2436	Peter Murtha	Live_In	Washington	
+sent2447	the Brazilian Embassy	Located_In	Argentina	
+sent2464	SEOUL	Located_In	South Korea	
+sent2464	AP	OrgBased_In	SEOUL	
+sent2509	Camas	Located_In	Wash	
+sent2514	AP	OrgBased_In	BELGRADE	
+sent2514	AP	OrgBased_In	Yugoslavia	
+sent2534	AP	OrgBased_In	NEW YORK	
+sent2556	Bush	Live_In	U.S	
+sent2556	William Higgins	Live_In	U.S	
+sent2572	AP	OrgBased_In	VATICAN CITY	
+sent2576	AP	OrgBased_In	WASHINGTON	
+sent2577	Felix S. Bloch	Live_In	U.S	
+sent2580	Bloch	Live_In	Georgetown	
+sent2586	BANGKOK	Located_In	Thailand	
+sent2586	AP	OrgBased_In	BANGKOK	
+sent2586	AP	OrgBased_In	Thailand	
+sent2612	AP	OrgBased_In	Iraq	
+sent2637	Baruch Arensberg	Live_In	Israel	
+sent2643	Linguist Phillip Lieberman	Located_In	R.I	
+sent2643	Brown Univeristy	Live_In	Providence	
+sent2643	Brown Univeristy	Located_In	R.I	
+sent2643	Providence	Located_In	R.I	
+sent2647	Jeffrey Laitman	Live_In	New York 's	
+sent2735	Miguel Rodriguez	Live_In	Venezuela	
+sent2741	Harold Abramson	Live_In	U.S	
+sent2776	Wharf Holdings	Located_In	Hong Kong	
+sent2777	Sun Hung Kai Properties	Located_In	Hong Kong	
+sent2813	Daniel L. Bakst	Live_In	West Palm Beach	
+sent2813	Daniel L. Bakst	Live_In	Fla	
+sent2813	West Palm Beach	Located_In	Fla	
+sent2817	Warner	Live_In	Ocala	
+sent2817	Warner	Live_In	Fla	
+sent2817	Warner	Live_In	Jacksonville	
+sent2817	Ocala	Located_In	Fla	
+sent2817	more than $4 billion	Live_In	Fla	
+sent2820	Warner	Located_In	U.S	
+sent2820	Switzerland	Located_In	U.S	
+sent2822	George Proctor	Live_In	U.S	
+sent2826	Andrew Hall	Live_In	Miami	
+sent2826	Andrew Hall	Live_In	Fla	
+sent2826	Miami	Located_In	Fla	
+sent2828	Lawrence Kane Jr	Live_In	Cincinnati	
+sent2828	Lawrence Kane Jr	Live_In	Ohio	
+sent2828	Lawrence Kane Jr	Live_In	Home State	
+sent2828	Cincinnati	Located_In	Ohio	
+sent2828	Cincinnati	Located_In	Home State	
+sent2884	Felipe Cano	Live_In	San Miguelito	
+sent2896	Boris Yeltsin	Live_In	Moscow	
+sent2906	Nikolai Kuznetsov	Live_In	Soviet	
+sent2929	Mykola Bahrov	Work_For	Supreme Soviet	
+sent2929	William Miller	Live_In	U.S	
+sent2929	William Miller	Live_In	Ukraine	
+sent2968	Hitler	Live_In	Berlin	
+sent2972	Minoli	Live_In	Italy	
+sent2972	Benito Mussolini	Live_In	Italy	
+sent3023	Anhui	Located_In	Beijing	
+sent3023	XINHUA	Located_In	Beijing	
+sent3024	XINHUA	Located_In	Beijing	
+sent3034	Qian Qichen Leaves	Live_In	Beijing	
+sent3034	Qian Qichen Leaves	Work_For	XINHUA	
+sent3036	Foreign Qian	Live_In	Beijing	
+sent3051	Bill Clinton	Live_In	US	
+sent3051	Clinton	Live_In	US	
+sent3073	USTR	Live_In	U.S	
+sent3073	Mickey Kantor	Live_In	U.S	
+sent3073	Hosokawa	OrgBased_In	U.S	
+sent3137	Karadjordjevo	Live_In	Croatia	
+sent3137	Franjo Tudjman	Live_In	Croatia	
+sent4655	Lee Harvey Oswald	Kill	Kennedy	
+sent4656	Oswald	Kill	Kennedy	
+sent4657	Oswald	Kill	Kennedy	
+sent4658	Lee Harvey Oswald	Kill	President John F. Kennedy	
+sent4659	Lee Harvey Oswald	Kill	President John F. Kennedy	
+sent4660	James Earl Ray	Kill	King	
+sent4661	Oswald	Kill	Kennedy	
+sent4661	Oswald	Kill	President Kennedy	
+sent4662	Oswald	Kill	President John F. Kennedy	
+sent4666	Sirhan	Kill	Kennedy	
+sent4667	Sirhan Sirhan	Kill	Robert F. Kennedy	
+sent4667	Sirhan Sirhan	Kill	Kennedy	
+sent4667	Sirhan Sirhan	Kill	Sen. Robert F. Kennedy	
+sent4668	Lee Harvard Oswald	Kill	President John F. Kennedy	
+sent4669	Lee Harvey Oswald	Kill	Kennedy	
+sent4669	Lee Harvey Oswald	Kill	President Kennedy	
+sent4670	Lee Harvey Oswald	Kill	Kennedy	
+sent4670	Lee Harvey Oswald	Kill	President Kennedy	
+sent4671	James Earl Ray	Kill	Martin Luther King Jr	
+sent4673	St. Joseph	Located_In	Mo	
+sent4675	Sirhan Sirhan	Kill	New York Sen. Robert F. Kennedy	
+sent4676	John Wilkes Booth	Kill	President Abraham Lincoln	
+sent4677	Sirhan	Kill	Robert Kennedy	
+sent4677	Robert Kennedy	Live_In	U.S	
+sent4678	Sirhan Sirhan	Kill	Sen. Robert F. Kennedy	
+sent4678	Tuesday	Kill	Sen. Robert F. Kennedy	
+sent4679	Sirhan	Located_In	Jerusalem	
+sent4679	Sirhan	Kill	Kennedy	
+sent4679	Sirhan	Kill	California	
+sent4679	Jerusalem	Kill	Kennedy	
+sent4680	Sirhan	Kill	Kennedy	
+sent4680	Sirhan	Kill	California	
+sent4682	Oswald	Kill	Kennedy	
+sent4683	Sirhan Bishara Sirhan	Kill	Kennedy	
+sent4685	Sirhan Bishara Sirhan	Kill	Kennedy	
+sent4687	Mark David Chapman	Kill	John Lennon	
+sent4689	John Wilkes Booth	Kill	President Abraham Lincoln	
+sent4694	Francisco Pizarro	Kill	Atahualpa	
+sent4695	Leon Czolgosz	Kill	President William McKinley	
+sent4696	Lee Harvey Oswald	Kill	President John F. Kennedy	
+sent4698	Mark David Chapman	Kill	Lennon	
+sent4698	Mark David Chapman	Located_In	New York	
+sent4701	James Earl Ray	Kill	Martin Luther King	
+sent4701	James Earl Ray	Kill	the Rev. Martin Luther King	
+sent4702	Ray	Work_For	Tenn	
+sent4702	Ray	Kill	King	
+sent4703	Lee Harvey Oswald	Kill	President Kennedy	
+sent4704	Lee Harvey Oswald	Kill	Kennedy	
+sent4706	Oswald	Kill	Kennedy	
+sent4707	Lee Harvey Oswald	Kill	Kennedy	
+sent4707	Lee Harvey Oswald	Kill	President Kennedy	
+sent4708	John Wilkes Booth	Kill	Lincoln	
+sent4708	Booth	Kill	Lincoln	
+sent4710	John Walker	Live_In	Guadalajara	
+sent4710	John Walker	Live_In	U.S	
+sent4710	Alberto Radelat	Live_In	U.S	
+sent4711	John Wilkes Booth	Kill	Lincoln	
+sent4711	John Wilkes Booth	Live_In	Virginia	
+sent4712	James Earl Ray	Kill	Martin Luther King Jr	
+sent4715	Lee Harvey Oswald	Kill	President Kennedy	
